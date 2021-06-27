@@ -1,0 +1,2 @@
+# LearningJSforStrategy
+Just for fun
